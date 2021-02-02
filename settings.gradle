@@ -1,0 +1,3 @@
+include ':plugin_c2webp'
+include ':app'
+include ':plugin'
